@@ -140,7 +140,7 @@ input, select, textarea {
 		margin: 0 0 0.5625em 0;
 	}
 div {
-  resize: vertical;
+  resize: both;
   overflow: auto;
 }
 
